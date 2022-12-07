@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\bin\Debug\netcoreapp3.1\PROMEDIOSW.exe
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\bin\Debug\netcoreapp3.1\PROMEDIOSW.deps.json
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\bin\Debug\netcoreapp3.1\PROMEDIOSW.runtimeconfig.json
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\bin\Debug\netcoreapp3.1\PROMEDIOSW.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\bin\Debug\netcoreapp3.1\PROMEDIOSW.dll
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\bin\Debug\netcoreapp3.1\PROMEDIOSW.pdb
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\obj\Debug\netcoreapp3.1\PROMEDIOSW.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\obj\Debug\netcoreapp3.1\PROMEDIOSW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\obj\Debug\netcoreapp3.1\PROMEDIOSW.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\obj\Debug\netcoreapp3.1\PROMEDIOSW.AssemblyInfo.cs
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\obj\Debug\netcoreapp3.1\PROMEDIOSW.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\obj\Debug\netcoreapp3.1\PROMEDIOSW.dll
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\obj\Debug\netcoreapp3.1\PROMEDIOSW.pdb
+C:\Users\Diego\source\repos\PROMEDIOSW\PROMEDIOSW\obj\Debug\netcoreapp3.1\PROMEDIOSW.genruntimeconfig.cache
